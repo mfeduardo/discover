@@ -1,6 +1,8 @@
-<h1 align="center">Discover</h1>
+<h1 align="left">Discover</h1>
 
-<p align="center">Projeto Discover da Rocketseat. Aborda os fundamento do html, css, Javascript e github</p>
+<p align="left">Projeto Discover da Rocketseat. Aborda os fundamento do Html, Css, Javascript, Figma e github.</p>
+
+<img src='.github/rkt.png'>
 
 <h2>Tecnologia:</h2>
 
@@ -8,6 +10,8 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
+    <li>Figma</li>
+    <li>Github</li>
 </ul>
 
 
